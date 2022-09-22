@@ -1,0 +1,75 @@
+header {
+background-color: lightblue;
+width: 50%;
+height: 50px;
+}
+
+footer {
+  background-color: lightgreen;
+  width: 50%;
+  height: 50px;
+}
+
+#A1 {
+  background-color: #FFCCFF;
+}
+
+#A2 {
+  background-color: #FFCCCC;
+}
+
+#A3 {
+  background-color: #FFCC99;
+}
+
+#A4 {
+  background-color: #FFCC66;
+}
+
+#B1 {
+  background-color: #FFCC33;
+}
+
+#B2 {
+  background-color: #FFCC00;
+}
+
+#B3 {
+  background-color: #FF99FF;
+}
+
+#B4 {
+  background-color: #FF99CC;
+}
+
+#C1 {
+  background-color: #00FFFF;
+}
+
+#C2 {
+  background-color: #00FFCC;
+}
+
+#C3 {
+  background-color: #00FF99;
+}
+
+#C4 {
+  background-color: #00FF00;
+}
+
+#D1 {
+  background-color: #9999FF;
+}
+
+#D2 {
+  background-color: #9999CC;
+}
+
+#D3 {
+  background-color: #999999;
+}
+
+#D4 {
+  background-color: #99CCCC;
+}
